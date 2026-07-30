@@ -27,3 +27,16 @@ prioritizing the lowest false-negative rate over raw accuracy.
 1. Clone this repo
 2. `pip install -r requirements.txt`
 3. `streamlit run app.py`
+
+## Team Members
+
+| Name | Registration Number | GitHub Username |
+|------|---------------------|------------------|
+| Ukpuho Miracle Aniekan | 22/EG/CE/1402 | Mabu04 |
+| Eze Agatha Oluebube | 22/EG/CE/1352 | Nik-ki25 |
+| Okon Clement Emem | 22/EG/CE/1392 | Okonclement10 |
+| Ebong Augustine Jerome | 22/EG/CE/1382 | Ebongaustine10 |
+| George Felix Uduak | 22/EG/CE/1422 | fg9190293 |
+| Ekemini Udoma Ekong | 22/EG/CE/1412 | blackstar2004 |
+| Akaka Nsisong Victoria | 22/EG/CE/1372 | Naddiee |
+| Usoro Favour Elijah | 22/EG/CE/1362 | Usorofavour-43 |
