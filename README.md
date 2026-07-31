@@ -1,4 +1,4 @@
-# Skin Lesion Classifier (Benign vs Malignant)
+# Skin Cancer Classifier (Benign vs Malignant)
 
 GET 324 - Laboratory Exercise 10 (Mini-Project)
 Group: CE5
