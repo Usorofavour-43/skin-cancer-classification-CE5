@@ -40,3 +40,21 @@ prioritizing the lowest false-negative rate over raw accuracy.
 | Ekemini Udoma Ekong | 22/EG/CE/1412 | blackstar2004 |
 | Akaka Nsisong Victoria | 22/EG/CE/1372 | Naddiee |
 | Usoro Favour Elijah | 22/EG/CE/1362 | Usorofavour-43 |
+## Future Improvements
+
+- Expand the dataset to include more diverse skin tones, since dermatoscopic datasets are often skewed toward lighter skin and this affects real-world reliability
+- Add Grad-CAM or similar visual explanations so predictions show *which region* of the lesion influenced the classification
+- Move from binary (benign/malignant) to multi-class classification (e.g. melanoma, basal cell carcinoma, nevus) for more clinically useful output
+- Add confidence calibration so the probability score reflects true model certainty, not just a raw softmax output
+- Package the MobileNetV3 model for on-device/mobile inference to reduce dependence on a hosted app
+- Add unit tests for the preprocessing and inference pipeline
+- Collect user feedback within the app (e.g. "was this prediction correct?") to build a dataset for future retraining
+
+
+
+ ## Acknowledgements
+
+- Dataset: [Skin Cancer: Malignant vs Benign](link) via Kaggle
+- MobileNetV3Small architecture — pretrained weights via [TensorFlow/Keras Applications or PyTorch, whichever you used]
+- Built as a mini-project for GET 324 (Group CE5)
+- Streamlit for the app framework
