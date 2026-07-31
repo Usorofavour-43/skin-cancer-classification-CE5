@@ -3,6 +3,11 @@
 GET 324 - Laboratory Exercise 10 (Mini-Project)
 Group: CE5
 
+## App Preview
+
+![Dermatologist examining skin with a dermatoscope](photo-1700760934166-4c766d708139.jpeg)
+*Photo by [Photographer Name](https://unsplash.com/@username) on [Unsplash](https://unsplash.com/photos/a-woman-getting-her-nails-done-at-a-nail-salon-quaIM4h-u5E)*
+
 ## ⚠️ Important Disclaimer
 
 This application was built by students as an academic mini-project. While the deployed model achieves a high accuracy on its test set, **this tool is not a diagnostic device and should never be used as proof that a lesion is or is not cancerous.**
